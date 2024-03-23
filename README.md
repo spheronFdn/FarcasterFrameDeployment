@@ -1,6 +1,14 @@
-# Frames.js Deploy with Spheron Example
+# Deploy Web3 Infrastructure with Spheron on Farcaster Frames
 
-Reference application for using `frames.js` to deploy to Spheron from a Farcaster Frame
+Reference application to Web3 Infrastructure to deploy to Spheron Network from a Farcaster Frame using:
+
+- @coinbase/onchainkit
+- (Spheron Network)[https://www.spheron.network/]
+- frame.js
+- next.js
+- tailwind.css
+
+If you don't already have one, (Create a Spheron account )[https://app.spheron.network/#/signup]
 
 ## Quickstart
 
@@ -20,8 +28,5 @@ If running from the frames.js repository itself:
 
 6. (Optional) To use a real signer (costs warps), copy `.env.sample` to `.env` and fill in the env variables following the comments provided
 
-## Docs, Questions and Help
 
-- [Frames.js Documentation](https://framesjs.org)
-- [Awesome frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file)
-- Join the [/frames-dev](https://warpcast.com/~/channel/frames-devs) channel on Farcaster to ask questions
+
